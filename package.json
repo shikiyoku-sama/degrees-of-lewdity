@@ -1,0 +1,19 @@
+{
+  "name": "degrees-of-lewdity-publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register-service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "workbox generateSW"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-shikiyoku-sama:shikiyoku-sama/degrees-of-lewdity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "workbox-cli": "^6.5.3"
+  }
+}
