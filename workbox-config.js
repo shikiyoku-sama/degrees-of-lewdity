@@ -1,11 +1,11 @@
 module.exports = {
   globDirectory: '.',
   globPatterns: [
-    'img/**/*.{png,gif,svg,js,css}',
-    'DolSettingsExport.json',
-    'style.css',
-    'register-service-worker.js',
-    'manifest.json',
+   //'img/**/*.{png,gif,svg,js,css}',
+   //'DolSettingsExport.json',
+   //'style.css',
+   //'register-service-worker.js',
+   //'manifest.json',
     'index.html',
   ],
   maximumFileSizeToCacheInBytes: 41943040, // 40 MB
